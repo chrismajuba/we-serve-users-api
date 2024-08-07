@@ -1,0 +1,212 @@
+2024-07-03 10:15:15.369 - [INFO ][we-serve-users-api,,][restartedMain       ] [z.c.w.s.u.a.WeServerUsersApiApplication]] Starting WeServerUsersApiApplication using Java 17.0.8 with PID 3020 (C:\Users\chrisma\Documents\JAVA17_Workspace\we-server-users-api\target\classes started by ChrisMa in C:\Users\chrisma\Documents\JAVA17_Workspace\we-server-users-api)
+2024-07-03 10:15:15.371 - [INFO ][we-serve-users-api,,][restartedMain       ] [z.c.w.s.u.a.WeServerUsersApiApplication]] No active profile set, falling back to 1 default profile: "default"
+2024-07-03 10:15:18.016 - [INFO ][we-serve-users-api,,][restartedMain       ] [c.z.hikari.HikariDataSource   ]] HikariPool-1 - Starting...
+2024-07-03 10:15:18.265 - [INFO ][we-serve-users-api,,][restartedMain       ] [c.z.hikari.pool.HikariPool    ]] HikariPool-1 - Added connection ConnectionID:1 ClientConnectionId: 7cb2611d-930b-4c59-9e8c-007ac9a9316e
+2024-07-03 10:15:18.268 - [INFO ][we-serve-users-api,,][restartedMain       ] [c.z.hikari.HikariDataSource   ]] HikariPool-1 - Start completed.
+2024-07-03 10:15:18.855 - [WARN ][we-serve-users-api,,][restartedMain       ] [org.hibernate.orm.deprecation ]] HHH90000025: SQLServer2012Dialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-07-03 10:15:18.856 - [WARN ][we-serve-users-api,,][restartedMain       ] [org.hibernate.orm.deprecation ]] HHH90000026: SQLServer2012Dialect has been deprecated; use org.hibernate.dialect.SQLServerDialect instead
+2024-07-03 10:15:20.489 - [WARN ][we-serve-users-api,,][restartedMain       ] [o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration]] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-07-03 10:15:22.499 - [INFO ][we-serve-users-api,,][restartedMain       ] [z.c.w.s.u.a.WeServerUsersApiApplication]] Started WeServerUsersApiApplication in 7.757 seconds (process running for 8.793)
+2024-07-03 10:17:21.647 - [INFO ][we-serve-users-api,,][Thread-5            ] [c.z.hikari.HikariDataSource   ]] HikariPool-1 - Shutdown initiated...
+2024-07-03 10:17:21.656 - [INFO ][we-serve-users-api,,][Thread-5            ] [c.z.hikari.HikariDataSource   ]] HikariPool-1 - Shutdown completed.
+2024-07-03 10:17:21.750 - [INFO ][we-serve-users-api,,][restartedMain       ] [z.c.w.s.u.a.WeServerUsersApiApplication]] Starting WeServerUsersApiApplication using Java 17.0.8 with PID 3020 (C:\Users\chrisma\Documents\JAVA17_Workspace\we-server-users-api\target\classes started by ChrisMa in C:\Users\chrisma\Documents\JAVA17_Workspace\we-server-users-api)
+2024-07-03 10:17:21.751 - [INFO ][we-serve-users-api,,][restartedMain       ] [z.c.w.s.u.a.WeServerUsersApiApplication]] No active profile set, falling back to 1 default profile: "default"
+2024-07-03 10:17:22.504 - [INFO ][we-serve-users-api,,][restartedMain       ] [c.z.hikari.HikariDataSource   ]] HikariPool-2 - Starting...
+2024-07-03 10:17:22.527 - [INFO ][we-serve-users-api,,][restartedMain       ] [c.z.hikari.pool.HikariPool    ]] HikariPool-2 - Added connection ConnectionID:11 ClientConnectionId: a35743a3-ae62-4768-8061-d954e5bde43d
+2024-07-03 10:17:22.527 - [INFO ][we-serve-users-api,,][restartedMain       ] [c.z.hikari.HikariDataSource   ]] HikariPool-2 - Start completed.
+2024-07-03 10:17:22.546 - [WARN ][we-serve-users-api,,][restartedMain       ] [org.hibernate.orm.deprecation ]] HHH90000025: SQLServer2012Dialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-07-03 10:17:22.546 - [WARN ][we-serve-users-api,,][restartedMain       ] [org.hibernate.orm.deprecation ]] HHH90000026: SQLServer2012Dialect has been deprecated; use org.hibernate.dialect.SQLServerDialect instead
+2024-07-03 10:17:22.749 - [WARN ][we-serve-users-api,,][restartedMain       ] [o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration]] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-07-03 10:17:23.649 - [INFO ][we-serve-users-api,,][restartedMain       ] [z.c.w.s.u.a.WeServerUsersApiApplication]] Started WeServerUsersApiApplication in 1.935 seconds (process running for 129.945)
+2024-07-03 10:17:37.196 - [INFO ][we-serve-users-api,,][Thread-7            ] [c.z.hikari.HikariDataSource   ]] HikariPool-2 - Shutdown initiated...
+2024-07-03 10:17:37.202 - [INFO ][we-serve-users-api,,][Thread-7            ] [c.z.hikari.HikariDataSource   ]] HikariPool-2 - Shutdown completed.
+2024-07-03 10:17:37.304 - [INFO ][we-serve-users-api,,][restartedMain       ] [z.c.w.s.u.a.WeServerUsersApiApplication]] Starting WeServerUsersApiApplication using Java 17.0.8 with PID 3020 (C:\Users\chrisma\Documents\JAVA17_Workspace\we-server-users-api\target\classes started by ChrisMa in C:\Users\chrisma\Documents\JAVA17_Workspace\we-server-users-api)
+2024-07-03 10:17:37.305 - [INFO ][we-serve-users-api,,][restartedMain       ] [z.c.w.s.u.a.WeServerUsersApiApplication]] No active profile set, falling back to 1 default profile: "default"
+2024-07-03 10:17:38.123 - [INFO ][we-serve-users-api,,][restartedMain       ] [c.z.hikari.HikariDataSource   ]] HikariPool-3 - Starting...
+2024-07-03 10:17:38.145 - [INFO ][we-serve-users-api,,][restartedMain       ] [c.z.hikari.pool.HikariPool    ]] HikariPool-3 - Added connection ConnectionID:21 ClientConnectionId: a1a219e8-1bbc-4141-a4de-5c15c055e6e2
+2024-07-03 10:17:38.146 - [INFO ][we-serve-users-api,,][restartedMain       ] [c.z.hikari.HikariDataSource   ]] HikariPool-3 - Start completed.
+2024-07-03 10:17:38.163 - [WARN ][we-serve-users-api,,][restartedMain       ] [org.hibernate.orm.deprecation ]] HHH90000025: SQLServer2012Dialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-07-03 10:17:38.163 - [WARN ][we-serve-users-api,,][restartedMain       ] [org.hibernate.orm.deprecation ]] HHH90000026: SQLServer2012Dialect has been deprecated; use org.hibernate.dialect.SQLServerDialect instead
+2024-07-03 10:17:38.357 - [WARN ][we-serve-users-api,,][restartedMain       ] [o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration]] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-07-03 10:17:39.380 - [INFO ][we-serve-users-api,,][restartedMain       ] [z.c.w.s.u.a.WeServerUsersApiApplication]] Started WeServerUsersApiApplication in 2.12 seconds (process running for 145.676)
+2024-07-03 10:18:02.302 - [INFO ][we-serve-users-api,,][Thread-11           ] [c.z.hikari.HikariDataSource   ]] HikariPool-3 - Shutdown initiated...
+2024-07-03 10:18:02.310 - [INFO ][we-serve-users-api,,][Thread-11           ] [c.z.hikari.HikariDataSource   ]] HikariPool-3 - Shutdown completed.
+2024-07-03 10:18:02.407 - [INFO ][we-serve-users-api,,][restartedMain       ] [z.c.w.s.u.a.WeServerUsersApiApplication]] Starting WeServerUsersApiApplication using Java 17.0.8 with PID 3020 (C:\Users\chrisma\Documents\JAVA17_Workspace\we-server-users-api\target\classes started by ChrisMa in C:\Users\chrisma\Documents\JAVA17_Workspace\we-server-users-api)
+2024-07-03 10:18:02.408 - [INFO ][we-serve-users-api,,][restartedMain       ] [z.c.w.s.u.a.WeServerUsersApiApplication]] No active profile set, falling back to 1 default profile: "default"
+2024-07-03 10:18:03.253 - [INFO ][we-serve-users-api,,][restartedMain       ] [c.z.hikari.HikariDataSource   ]] HikariPool-4 - Starting...
+2024-07-03 10:18:03.281 - [INFO ][we-serve-users-api,,][restartedMain       ] [c.z.hikari.pool.HikariPool    ]] HikariPool-4 - Added connection ConnectionID:31 ClientConnectionId: 393f8e41-2f11-4bd7-81ff-cc28a561255b
+2024-07-03 10:18:03.281 - [INFO ][we-serve-users-api,,][restartedMain       ] [c.z.hikari.HikariDataSource   ]] HikariPool-4 - Start completed.
+2024-07-03 10:18:03.302 - [WARN ][we-serve-users-api,,][restartedMain       ] [org.hibernate.orm.deprecation ]] HHH90000025: SQLServer2012Dialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-07-03 10:18:03.303 - [WARN ][we-serve-users-api,,][restartedMain       ] [org.hibernate.orm.deprecation ]] HHH90000026: SQLServer2012Dialect has been deprecated; use org.hibernate.dialect.SQLServerDialect instead
+2024-07-03 10:18:03.512 - [WARN ][we-serve-users-api,,][restartedMain       ] [o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration]] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-07-03 10:18:04.484 - [INFO ][we-serve-users-api,,][restartedMain       ] [z.c.w.s.u.a.WeServerUsersApiApplication]] Started WeServerUsersApiApplication in 2.12 seconds (process running for 170.78)
+2024-07-03 10:18:37.662 - [INFO ][we-serve-users-api,,][Thread-15           ] [c.z.hikari.HikariDataSource   ]] HikariPool-4 - Shutdown initiated...
+2024-07-03 10:18:37.669 - [INFO ][we-serve-users-api,,][Thread-15           ] [c.z.hikari.HikariDataSource   ]] HikariPool-4 - Shutdown completed.
+2024-07-03 10:18:37.752 - [INFO ][we-serve-users-api,,][restartedMain       ] [z.c.w.s.u.a.WeServerUsersApiApplication]] Starting WeServerUsersApiApplication using Java 17.0.8 with PID 3020 (C:\Users\chrisma\Documents\JAVA17_Workspace\we-server-users-api\target\classes started by ChrisMa in C:\Users\chrisma\Documents\JAVA17_Workspace\we-server-users-api)
+2024-07-03 10:18:37.752 - [INFO ][we-serve-users-api,,][restartedMain       ] [z.c.w.s.u.a.WeServerUsersApiApplication]] No active profile set, falling back to 1 default profile: "default"
+2024-07-03 10:18:40.202 - [INFO ][we-serve-users-api,,][restartedMain       ] [z.c.w.s.u.a.WeServerUsersApiApplication]] Starting WeServerUsersApiApplication using Java 17.0.8 with PID 13872 (C:\Users\chrisma\Documents\JAVA17_Workspace\we-server-users-api\target\classes started by ChrisMa in C:\Users\chrisma\Documents\JAVA17_Workspace\we-server-users-api)
+2024-07-03 10:18:40.203 - [INFO ][we-serve-users-api,,][restartedMain       ] [z.c.w.s.u.a.WeServerUsersApiApplication]] No active profile set, falling back to 1 default profile: "default"
+2024-07-03 10:18:42.657 - [INFO ][we-serve-users-api,,][restartedMain       ] [c.z.hikari.HikariDataSource   ]] HikariPool-1 - Starting...
+2024-07-03 10:18:42.918 - [INFO ][we-serve-users-api,,][restartedMain       ] [c.z.hikari.pool.HikariPool    ]] HikariPool-1 - Added connection ConnectionID:1 ClientConnectionId: 78f4621b-e096-4b71-b2dd-63119abe3374
+2024-07-03 10:18:42.922 - [INFO ][we-serve-users-api,,][restartedMain       ] [c.z.hikari.HikariDataSource   ]] HikariPool-1 - Start completed.
+2024-07-03 10:18:43.497 - [WARN ][we-serve-users-api,,][restartedMain       ] [org.hibernate.orm.deprecation ]] HHH90000025: SQLServer2012Dialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-07-03 10:18:43.499 - [WARN ][we-serve-users-api,,][restartedMain       ] [org.hibernate.orm.deprecation ]] HHH90000026: SQLServer2012Dialect has been deprecated; use org.hibernate.dialect.SQLServerDialect instead
+2024-07-03 10:18:44.981 - [WARN ][we-serve-users-api,,][restartedMain       ] [o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration]] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-07-03 10:18:46.726 - [INFO ][we-serve-users-api,,][restartedMain       ] [z.c.w.s.u.a.WeServerUsersApiApplication]] Started WeServerUsersApiApplication in 7.029 seconds (process running for 7.848)
+2024-07-03 10:19:29.490 - [ERROR][we-serve-users-api,,][http-nio-8084-exec-1] [o.a.c.c.C.[.[.[.[dispatcherServlet]]] Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed: za.co.we.serve.users.api.AuthException: incorrect Password.] with root cause
+za.co.we.serve.users.api.AuthException: incorrect Password.
+	at za.co.we.serve.users.api.security.UserAccountAuthenticationProvider.authenticate(UserAccountAuthenticationProvider.java:41)
+	at org.springframework.security.authentication.ProviderManager.authenticate(ProviderManager.java:182)
+	at za.co.we.serve.users.api.service.impl.AuthServiceImpl.login(AuthServiceImpl.java:29)
+	at za.co.we.serve.users.api.controller.UserController.login(UserController.java:37)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:255)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:188)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:118)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:926)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:831)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1089)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:979)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1014)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:914)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:590)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:195)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+	at org.springframework.web.filter.CompositeFilter$VirtualFilterChain.doFilter(CompositeFilter.java:108)
+	at org.springframework.security.web.FilterChainProxy.lambda$doFilterInternal$3(FilterChainProxy.java:231)
+	at org.springframework.security.web.ObservationFilterChainDecorator$FilterObservation$SimpleFilterObservation.lambda$wrap$1(ObservationFilterChainDecorator.java:479)
+	at org.springframework.security.web.ObservationFilterChainDecorator$AroundFilterObservation$SimpleAroundFilterObservation.lambda$wrap$1(ObservationFilterChainDecorator.java:340)
+	at org.springframework.security.web.ObservationFilterChainDecorator.lambda$wrapSecured$0(ObservationFilterChainDecorator.java:82)
+	at org.springframework.security.web.ObservationFilterChainDecorator$VirtualFilterChain.doFilter(ObservationFilterChainDecorator.java:128)
+	at org.springframework.security.web.access.intercept.AuthorizationFilter.doFilter(AuthorizationFilter.java:100)
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.wrapFilter(ObservationFilterChainDecorator.java:240)
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.doFilter(ObservationFilterChainDecorator.java:227)
+	at org.springframework.security.web.ObservationFilterChainDecorator$VirtualFilterChain.doFilter(ObservationFilterChainDecorator.java:137)
+	at org.springframework.security.web.access.ExceptionTranslationFilter.doFilter(ExceptionTranslationFilter.java:126)
+	at org.springframework.security.web.access.ExceptionTranslationFilter.doFilter(ExceptionTranslationFilter.java:120)
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.wrapFilter(ObservationFilterChainDecorator.java:240)
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.doFilter(ObservationFilterChainDecorator.java:227)
+	at org.springframework.security.web.ObservationFilterChainDecorator$VirtualFilterChain.doFilter(ObservationFilterChainDecorator.java:137)
+	at org.springframework.security.web.authentication.AnonymousAuthenticationFilter.doFilter(AnonymousAuthenticationFilter.java:100)
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.wrapFilter(ObservationFilterChainDecorator.java:240)
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.doFilter(ObservationFilterChainDecorator.java:227)
+	at org.springframework.security.web.ObservationFilterChainDecorator$VirtualFilterChain.doFilter(ObservationFilterChainDecorator.java:137)
+	at org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter.doFilter(SecurityContextHolderAwareRequestFilter.java:179)
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.wrapFilter(ObservationFilterChainDecorator.java:240)
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.doFilter(ObservationFilterChainDecorator.java:227)
+	at org.springframework.security.web.ObservationFilterChainDecorator$VirtualFilterChain.doFilter(ObservationFilterChainDecorator.java:137)
+	at org.springframework.security.web.savedrequest.RequestCacheAwareFilter.doFilter(RequestCacheAwareFilter.java:63)
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.wrapFilter(ObservationFilterChainDecorator.java:240)
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.doFilter(ObservationFilterChainDecorator.java:227)
+	at org.springframework.security.web.ObservationFilterChainDecorator$VirtualFilterChain.doFilter(ObservationFilterChainDecorator.java:137)
+	at org.springframework.security.web.authentication.www.BasicAuthenticationFilter.doFilterInternal(BasicAuthenticationFilter.java:181)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.wrapFilter(ObservationFilterChainDecorator.java:240)
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.doFilter(ObservationFilterChainDecorator.java:227)
+	at org.springframework.security.web.ObservationFilterChainDecorator$VirtualFilterChain.doFilter(ObservationFilterChainDecorator.java:137)
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:107)
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:93)
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.wrapFilter(ObservationFilterChainDecorator.java:240)
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.doFilter(ObservationFilterChainDecorator.java:227)
+	at org.springframework.security.web.ObservationFilterChainDecorator$VirtualFilterChain.doFilter(ObservationFilterChainDecorator.java:137)
+	at org.springframework.web.filter.CorsFilter.doFilterInternal(CorsFilter.java:91)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.wrapFilter(ObservationFilterChainDecorator.java:240)
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.doFilter(ObservationFilterChainDecorator.java:227)
+	at org.springframework.security.web.ObservationFilterChainDecorator$VirtualFilterChain.doFilter(ObservationFilterChainDecorator.java:137)
+	at org.springframework.security.web.header.HeaderWriterFilter.doHeadersAfter(HeaderWriterFilter.java:90)
+	at org.springframework.security.web.header.HeaderWriterFilter.doFilterInternal(HeaderWriterFilter.java:75)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.wrapFilter(ObservationFilterChainDecorator.java:240)
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.doFilter(ObservationFilterChainDecorator.java:227)
+	at org.springframework.security.web.ObservationFilterChainDecorator$VirtualFilterChain.doFilter(ObservationFilterChainDecorator.java:137)
+	at org.springframework.security.web.context.SecurityContextHolderFilter.doFilter(SecurityContextHolderFilter.java:82)
+	at org.springframework.security.web.context.SecurityContextHolderFilter.doFilter(SecurityContextHolderFilter.java:69)
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.wrapFilter(ObservationFilterChainDecorator.java:240)
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.doFilter(ObservationFilterChainDecorator.java:227)
+	at org.springframework.security.web.ObservationFilterChainDecorator$VirtualFilterChain.doFilter(ObservationFilterChainDecorator.java:137)
+	at org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter.doFilterInternal(WebAsyncManagerIntegrationFilter.java:62)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.wrapFilter(ObservationFilterChainDecorator.java:240)
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.doFilter(ObservationFilterChainDecorator.java:227)
+	at org.springframework.security.web.ObservationFilterChainDecorator$VirtualFilterChain.doFilter(ObservationFilterChainDecorator.java:137)
+	at org.springframework.security.web.session.DisableEncodeUrlFilter.doFilterInternal(DisableEncodeUrlFilter.java:42)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.wrapFilter(ObservationFilterChainDecorator.java:240)
+	at org.springframework.security.web.ObservationFilterChainDecorator$AroundFilterObservation$SimpleAroundFilterObservation.lambda$wrap$0(ObservationFilterChainDecorator.java:323)
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.doFilter(ObservationFilterChainDecorator.java:224)
+	at org.springframework.security.web.ObservationFilterChainDecorator$VirtualFilterChain.doFilter(ObservationFilterChainDecorator.java:137)
+	at org.springframework.security.web.FilterChainProxy.doFilterInternal(FilterChainProxy.java:233)
+	at org.springframework.security.web.FilterChainProxy.doFilter(FilterChainProxy.java:191)
+	at org.springframework.web.filter.CompositeFilter$VirtualFilterChain.doFilter(CompositeFilter.java:113)
+	at org.springframework.web.servlet.handler.HandlerMappingIntrospector.lambda$createCacheFilter$3(HandlerMappingIntrospector.java:195)
+	at org.springframework.web.filter.CompositeFilter$VirtualFilterChain.doFilter(CompositeFilter.java:113)
+	at org.springframework.web.filter.CompositeFilter.doFilter(CompositeFilter.java:74)
+	at org.springframework.security.config.annotation.web.configuration.WebMvcSecurityConfiguration$CompositeFilterChainProxy.doFilter(WebMvcSecurityConfiguration.java:230)
+	at org.springframework.web.filter.DelegatingFilterProxy.invokeDelegate(DelegatingFilterProxy.java:352)
+	at org.springframework.web.filter.DelegatingFilterProxy.doFilter(DelegatingFilterProxy.java:268)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+	at org.springframework.web.filter.ServerHttpObservationFilter.doFilterInternal(ServerHttpObservationFilter.java:107)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:389)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:904)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1741)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2024-07-03 10:20:07.490 - [INFO ][we-serve-users-api,,][Thread-5            ] [c.z.hikari.HikariDataSource   ]] HikariPool-1 - Shutdown initiated...
+2024-07-03 10:20:07.499 - [INFO ][we-serve-users-api,,][Thread-5            ] [c.z.hikari.HikariDataSource   ]] HikariPool-1 - Shutdown completed.
+2024-07-03 10:20:07.621 - [INFO ][we-serve-users-api,,][restartedMain       ] [z.c.w.s.u.a.WeServerUsersApiApplication]] Starting WeServerUsersApiApplication using Java 17.0.8 with PID 13872 (C:\Users\chrisma\Documents\JAVA17_Workspace\we-server-users-api\target\classes started by ChrisMa in C:\Users\chrisma\Documents\JAVA17_Workspace\we-server-users-api)
+2024-07-03 10:20:07.622 - [INFO ][we-serve-users-api,,][restartedMain       ] [z.c.w.s.u.a.WeServerUsersApiApplication]] No active profile set, falling back to 1 default profile: "default"
+2024-07-03 10:20:08.501 - [INFO ][we-serve-users-api,,][restartedMain       ] [c.z.hikari.HikariDataSource   ]] HikariPool-2 - Starting...
+2024-07-03 10:20:08.525 - [INFO ][we-serve-users-api,,][restartedMain       ] [c.z.hikari.pool.HikariPool    ]] HikariPool-2 - Added connection ConnectionID:11 ClientConnectionId: 02ba5096-cc3c-49a7-9534-e3545dba2184
+2024-07-03 10:20:08.526 - [INFO ][we-serve-users-api,,][restartedMain       ] [c.z.hikari.HikariDataSource   ]] HikariPool-2 - Start completed.
+2024-07-03 10:20:08.550 - [WARN ][we-serve-users-api,,][restartedMain       ] [org.hibernate.orm.deprecation ]] HHH90000025: SQLServer2012Dialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-07-03 10:20:08.550 - [WARN ][we-serve-users-api,,][restartedMain       ] [org.hibernate.orm.deprecation ]] HHH90000026: SQLServer2012Dialect has been deprecated; use org.hibernate.dialect.SQLServerDialect instead
+2024-07-03 10:20:08.744 - [WARN ][we-serve-users-api,,][restartedMain       ] [o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration]] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-07-03 10:20:09.575 - [INFO ][we-serve-users-api,,][restartedMain       ] [z.c.w.s.u.a.WeServerUsersApiApplication]] Started WeServerUsersApiApplication in 2.008 seconds (process running for 90.699)
+2024-07-03 10:20:11.654 - [INFO ][we-serve-users-api,,][Thread-7            ] [c.z.hikari.HikariDataSource   ]] HikariPool-2 - Shutdown initiated...
+2024-07-03 10:20:11.661 - [INFO ][we-serve-users-api,,][Thread-7            ] [c.z.hikari.HikariDataSource   ]] HikariPool-2 - Shutdown completed.
+2024-07-03 10:20:11.751 - [INFO ][we-serve-users-api,,][restartedMain       ] [z.c.w.s.u.a.WeServerUsersApiApplication]] Starting WeServerUsersApiApplication using Java 17.0.8 with PID 13872 (C:\Users\chrisma\Documents\JAVA17_Workspace\we-server-users-api\target\classes started by ChrisMa in C:\Users\chrisma\Documents\JAVA17_Workspace\we-server-users-api)
+2024-07-03 10:20:11.751 - [INFO ][we-serve-users-api,,][restartedMain       ] [z.c.w.s.u.a.WeServerUsersApiApplication]] No active profile set, falling back to 1 default profile: "default"
+2024-07-03 10:20:13.795 - [INFO ][we-serve-users-api,,][restartedMain       ] [c.z.hikari.HikariDataSource   ]] HikariPool-3 - Starting...
+2024-07-03 10:20:13.814 - [INFO ][we-serve-users-api,,][restartedMain       ] [c.z.hikari.pool.HikariPool    ]] HikariPool-3 - Added connection ConnectionID:21 ClientConnectionId: 8fd444b5-cfbc-464a-af56-f39c79e63acd
+2024-07-03 10:20:13.814 - [INFO ][we-serve-users-api,,][restartedMain       ] [c.z.hikari.HikariDataSource   ]] HikariPool-3 - Start completed.
+2024-07-03 10:20:13.830 - [WARN ][we-serve-users-api,,][restartedMain       ] [org.hibernate.orm.deprecation ]] HHH90000025: SQLServer2012Dialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-07-03 10:20:13.830 - [WARN ][we-serve-users-api,,][restartedMain       ] [org.hibernate.orm.deprecation ]] HHH90000026: SQLServer2012Dialect has been deprecated; use org.hibernate.dialect.SQLServerDialect instead
+2024-07-03 10:20:13.999 - [WARN ][we-serve-users-api,,][restartedMain       ] [o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration]] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-07-03 10:20:14.792 - [INFO ][we-serve-users-api,,][restartedMain       ] [z.c.w.s.u.a.WeServerUsersApiApplication]] Started WeServerUsersApiApplication in 3.077 seconds (process running for 95.917)

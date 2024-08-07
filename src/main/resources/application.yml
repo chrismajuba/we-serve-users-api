@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: we-serve-users-api
+  config:
+    import: configserver:http://localhost:8888 
