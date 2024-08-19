@@ -1,0 +1,1 @@
+"C:\Program Files\Java\jdk-17\bin\java" -jar ".\target\we-serve-auth-api-0.0.1-SNAPSHOT.jar" --spring.cloud.config.uri=http://127.0.0.1:8888 --spring.application.name=we-serve-auth-api --spring.profiles.active=default

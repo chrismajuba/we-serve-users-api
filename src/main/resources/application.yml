@@ -1,5 +1,5 @@
 spring:
   application:
-    name: we-serve-users-api
+    name: we-serve-auth-api
   config:
     import: configserver:http://localhost:8888 

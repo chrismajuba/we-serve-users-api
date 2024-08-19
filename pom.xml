@@ -10,9 +10,9 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>za.co.we.serve.users.api</groupId>
-	<artifactId>we-serve-users-api</artifactId>
+	<artifactId>we-serve-auth-api</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>we-serve-users-api</name>
+	<name>we-serve-auth-api</name>
 	<description>Users API</description>
 	<url />
 	<licenses>
