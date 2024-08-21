@@ -17,6 +17,7 @@ import io.swagger.v3.oas.annotations.media.Content;
 import io.swagger.v3.oas.annotations.media.Schema;
 import io.swagger.v3.oas.annotations.responses.ApiResponse;
 import jakarta.validation.Valid;
+import za.co.we.serve.users.api.dto.AccessTokenDto;
 import za.co.we.serve.users.api.dto.JWTAuthResponseDto;
 import za.co.we.serve.users.api.dto.LoginDto;
 import za.co.we.serve.users.api.dto.RegistrationDto;
@@ -26,7 +27,7 @@ import za.co.we.serve.users.api.service.AuthService;
 import za.co.we.serve.users.api.service.UserService;
 
 @RestController
-@RequestMapping("/we-serve/api/v1/users")
+@RequestMapping("/we-serve/auth/api/v1/users")
 public class UserController {
 
 	/*
@@ -110,5 +111,26 @@ public class UserController {
 	public ResponseEntity<String> createUser(@RequestBody @Valid RegistrationDto registrationDto) {
 
 		return new ResponseEntity<>(authService.registration(registrationDto), HttpStatus.CREATED);
+	}
+	
+	@Operation(summary = "Validate a token",
+            description = "This API validates a token.",
+            responses = {
+                @ApiResponse(responseCode = "200", description = "Successful Operation",
+                             content = @Content(schema = @Schema(implementation = Boolean.class))),
+                @ApiResponse(responseCode = "400", description = "Bad Request",content = @Content(schema = @Schema(implementation = ErrorDetails.class))),
+                @ApiResponse(responseCode = "401", description = "Unauthorized",content = @Content(schema = @Schema(implementation = ErrorDetails.class))),
+                @ApiResponse(responseCode = "403", description = "Forbidden",content = @Content(schema = @Schema(implementation = ErrorDetails.class))),
+                @ApiResponse(responseCode = "404", description = "Not Found",content = @Content(schema = @Schema(implementation = ErrorDetails.class))),
+                @ApiResponse(responseCode = "500", description = "Internal Server Error",content = @Content(schema = @Schema(implementation = ErrorDetails.class)))
+            })
+	@PostMapping(path = "/validate-token")
+	public ResponseEntity<Boolean> validateToken(@RequestBody AccessTokenDto accessTokenDto){
+
+		String token = accessTokenDto.getToken();
+		
+		if(token.contains("Bearer"))
+			token = token.substring(7);
+		return new ResponseEntity<>(authService.validateToken(token),HttpStatus.OK);
 	}
 }

@@ -9,4 +9,6 @@ public interface AuthService {
 	public JWTAuthResponseDto login(LoginDto loginDto);
 
 	public String registration(RegistrationDto registrationDto);
+	
+	public boolean validateToken(String token);
 }

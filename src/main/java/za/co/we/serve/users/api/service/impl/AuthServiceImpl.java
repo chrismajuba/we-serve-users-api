@@ -81,4 +81,9 @@ public class AuthServiceImpl implements AuthService {
 		return "Successfully Registered User with id [" + saveUserAccount.getId() + "]";
 	}
 
+	@Override
+	public boolean validateToken(String token) {
+		return jwtProvider.validateJWTtoken(token);
+	}
+
 }
